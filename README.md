@@ -50,4 +50,4 @@ Power BI · Power Query · DAX
 ## Files
 - `Olist_Project_Report_Midterm.pdf` — project report
 - `Business_Statement_Olist_Dataset_Description.pdf` — dataset description
-- The Power BI file (.pbix) and full Excel workbook (.xlsx) exceed GitHub's file size limit and aren't hosted in this repo. You can download them here: Google Drive folder
+- The Power BI file (.pbix) and full Excel workbook (.xlsx) exceed GitHub's file size limit and aren't hosted in this repo. You can download them here: https://drive.google.com/drive/folders/1vPP9N2Q8LKwxRUiA8hlf8HWiPlVa7Jla?usp=drive_link
